@@ -1,5 +1,9 @@
 # Stats::Middleware
 
+[![Gem Version](https://badge.fury.io/rb/stats-middleware.svg)](https://badge.fury.io/rb/stats-middleware)
+[![Ruby](https://github.com/ecosyste-ms/stats-middleware/actions/workflows/ruby.yml/badge.svg)](https://github.com/ecosyste-ms/stats-middleware/actions/workflows/ruby.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A collection of Rack middleware components for tracking API usage statistics including user agent and IP address data with Redis storage.
 
 This gem was extracted from and built for [Ecosyste.ms](https://ecosyste.ms), an open source platform for monitoring and understanding the health and sustainability of open source software ecosystems.
