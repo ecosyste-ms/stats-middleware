@@ -11,7 +11,7 @@ GEM
   specs:
     connection_pool (2.5.3)
     date (3.4.1)
-    erb (5.0.2)
+    erb (6.0.1.1)
     io-console (0.8.1)
     irb (1.15.2)
       pp (>= 0.6.0)
@@ -51,7 +51,7 @@ DEPENDENCIES
 CHECKSUMS
   connection_pool (2.5.3) sha256=cfd74a82b9b094d1ce30c4f1a346da23ee19dc8a062a16a85f58eab1ced4305b
   date (3.4.1) sha256=bf268e14ef7158009bfeaec40b5fa3c7271906e88b196d958a89d4b408abe64f
-  erb (5.0.2) sha256=d30f258143d4300fb4ecf430042ac12970c9bb4b33c974a545b8f58c1ec26c0f
+  erb (6.0.1.1) sha256=ce5357460652a9a94667c5769eaffc551eea2b14a8531ac7c7b1d77b860758b9
   io-console (0.8.1) sha256=1e15440a6b2f67b6ea496df7c474ed62c860ad11237f29b3bd187f054b925fcb
   irb (1.15.2) sha256=222f32952e278da34b58ffe45e8634bf4afc2dc7aa9da23fed67e581aa50fdba
   logger (1.7.0) sha256=196edec7cc44b66cfb40f9755ce11b392f21f7967696af15d274dde7edff0203
